@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480578690169",
+    "project_id": "fcm-notify-6c09d",
+    "storage_bucket": "fcm-notify-6c09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480578690169:android:800a2bf601f43b0bf188a8",
+        "android_client_info": {
+          "package_name": "com.extremecoder.fcm_notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480578690169-8ngqu931kvii6sad7fhmgaajnmic2uu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_pXj4yPjSw7K5caF2D-o9z2cKuDYxhpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480578690169-8ngqu931kvii6sad7fhmgaajnmic2uu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
